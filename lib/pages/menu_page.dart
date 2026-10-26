@@ -17,29 +17,29 @@ class MenuPage extends StatefulWidget {
 class _MenuPageState extends State<MenuPage> {
   final List<Map<String, dynamic>> menuList = [
     {
-      'name': 'Nasi Goreng',
+      'name': 'Nasi Goreng Padang',
       'price': 15000,
-      'description': 'Nasi goreng spesial dengan telur dan bumbu pilihan.',
+      'description': 'Nasi goreng padang spesial dengan telur dan bumbu pilihan.',
     },
     {
-      'name': 'Mie Ayam',
-      'price': 12000,
-      'description': 'Mie ayam dengan topping ayam kecap yang lezat.',
+      'name': 'Soto Padang',
+      'price': 17000,
+      'description': 'Soto Padang dengan cita rasa khas minang',
     },
     {
-      'name': 'Bakso',
-      'price': 13000,
-      'description': 'Bakso sapi dengan kuah gurih dan segar.',
+      'name': 'Roti Canai',
+      'price': 10000,
+      'description': 'Roti Canai dengan berbagai topping yang nikmat.',
     },
     {
-      'name': 'Soto Ayam',
-      'price': 18000,
-      'description': 'Soto ayam dengan kuah rempah khas Indonesia.',
+      'name': 'Martabak Mesir',
+      'price': 28000,
+      'description': 'Martabak Mesir khas minang',
     },
     {
-      'name': 'Es Teh',
+      'name': 'Teh Talua',
       'price': 5000,
-      'description': 'Minuman teh manis dingin yang menyegarkan.',
+      'description': 'Teh creamy asli buatan orang minang',
     },
   ];
 
